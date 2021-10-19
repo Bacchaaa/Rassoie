@@ -9,7 +9,7 @@ class Food(models.Model):
     type = [ 
         ("Veg","veg"), 
         ("Non-Veg","non-veg"), 
-        ("jain","jain"), 
+        ("jain","jain"),
         ] 
     food_type = models.CharField(choices=type,max_length=20) 
     category =[ 

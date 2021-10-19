@@ -1,0 +1,22 @@
+.landing{
+    height: 100vh;
+    background-image: url('../../images/brooke-lark-wMzx2nBdeng-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    object-fit: contain;
+}
+.overlay{
+    height: 100vh;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* backdrop-filter: blur(2px); */
+}
+.mainheading{
+  font-family: 'Festive', cursive;
+  font-size: 100px;
+
+}

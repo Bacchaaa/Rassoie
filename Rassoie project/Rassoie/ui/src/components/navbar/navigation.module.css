@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgba(0,0,0,0.3);
+    color: white;
+    backdrop-filter: blur(1px);
+}
+.navlink{
+    text-shadow: 0 0 white;
+}
+.navbar_brand{
+    font-family: 'Festive', cursive !important;
+    letter-spacing: 2px;
+    font-size: 28px;
+    padding: 0;
+}

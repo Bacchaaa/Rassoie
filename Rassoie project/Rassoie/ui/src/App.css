@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Festive&family=Open+Sans&display=swap');
+*{
+  margin: 0;
+  /* font-family: 'Festive', cursive; */
+  font-family: 'Andada Pro', serif;
+  /* font-family: 'Open Sans', sans-serif; */
+}
